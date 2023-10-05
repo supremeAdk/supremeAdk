@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supremeAdk
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on some projects related to my field of interest
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning machine learning
+- 💞️I'd really love to work on real projects related to my interests
 - 📫 How to reach me suprememind30@gmail.com
 
 <!---
