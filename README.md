@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️I'd really love to work on real projects related to my interests
 - 📫 How to reach me suprememind30@gmail.com
+- haven't published all my work in github for now, I'll add more later.
 
 <!---
 supremeAdk/supremeAdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
